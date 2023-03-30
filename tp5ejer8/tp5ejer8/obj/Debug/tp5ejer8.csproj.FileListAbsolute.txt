@@ -1,0 +1,8 @@
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\bin\Debug\tp5ejer8.exe.config
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\bin\Debug\tp5ejer8.exe
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\bin\Debug\tp5ejer8.pdb
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\obj\Debug\tp5ejer8.csproj.AssemblyReference.cache
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\obj\Debug\tp5ejer8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\obj\Debug\tp5ejer8.csproj.CoreCompileInputs.cache
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\obj\Debug\tp5ejer8.exe
+C:\Users\Yapur\OneDrive\Escritorio\TP5-ROSARIO\tp5ejer8\tp5ejer8\obj\Debug\tp5ejer8.pdb
